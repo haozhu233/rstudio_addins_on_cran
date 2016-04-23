@@ -10,7 +10,7 @@ shinyUI(
     ),
     position = "static-top",
     fluid = F,
-    windowTitle = "Football Player Health Study - Distracted Walking",
+    windowTitle = "Discover RStudio Addins",
     ribbon_corner("https://github.com/haozhu233/rstudio_addins_on_cran", 
                   fill_color = "#777777"),
     
